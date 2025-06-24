@@ -1,0 +1,5 @@
+# Ne pas suivre ces fichiers/dossiers
+node_modules/
+.DS_Store
+.env
+*.log
